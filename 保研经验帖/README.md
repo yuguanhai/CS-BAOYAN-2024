@@ -21,6 +21,7 @@
 * @[是Dream呀](https://juejin.cn/user/765678294413181/posts)的[2023（2024届）计算机保研经验分享，圆梦山东大学](https://juejin.cn/post/7284417436752707645)
 * @[好的](https://www.zhihu.com/people/hao-de-72-70-44)的[2023-2024计算机保研历程（网安）](https://zhuanlan.zhihu.com/p/659493955)
 * @[三旬](https://www.zhihu.com/people/san-xun-98-97)的[2024届计算机保研经验贴](https://zhuanlan.zhihu.com/p/659460973)
+* @[For1moc](https://www.zhihu.com/people/si-yu-85-41-4)的[2024届CTF/信安/网安方向计算机保研帖(末九=>复旦)](https://www.zhihu.com/question/537883625/answer/3232678535)
 
 ## 2022夏令营总结贴
 
