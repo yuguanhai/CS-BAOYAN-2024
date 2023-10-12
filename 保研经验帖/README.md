@@ -2,6 +2,8 @@
 
 ## 2023夏令营总结贴
 
+* @[NorthSecond](https://blog.yfyang.me/)的[2024届保研流水账](https://blog.yfyang.me/2023/10/01/about-baoyan/)
+* @[雨似浮夸](https://www.zhihu.com/people/yu-si-fu-kua)的[2023年（2024届）计算机保研经验帖｜末2跨专业上岸东南大学PALM｜东南大学CS、北大信工CS、浙软SE、厦大MAC、北师大AI、电科CS……｜一篇非常详细的经验帖，希望能够对大家有帮助！](https://zhuanlan.zhihu.com/p/659869954)
 * @[lllllThree](https://www.zhihu.com/people/lllll-64-58-95)的[2023年（2024届） 计算机保研经历 北航cs 武大cs 自动化所](https://zhuanlan.zhihu.com/p/631358931)
 * @[柚鱼](https://www.zhihu.com/people/no-reason-84-41)的[2024届计算机双非菜鸟保研之旅](https://zhuanlan.zhihu.com/p/658674548)
 * @[Lanker](https://www.zhihu.com/people/lanker-44)的[2024届计算机人工智能低rank保研经验](https://zhuanlan.zhihu.com/p/659105884)
@@ -19,7 +21,6 @@
 * @[是Dream呀](https://juejin.cn/user/765678294413181/posts)的[2023（2024届）计算机保研经验分享，圆梦山东大学](https://juejin.cn/post/7284417436752707645)
 * @[好的](https://www.zhihu.com/people/hao-de-72-70-44)的[2023-2024计算机保研历程（网安）](https://zhuanlan.zhihu.com/p/659493955)
 * @[三旬](https://www.zhihu.com/people/san-xun-98-97)的[2024届计算机保研经验贴](https://zhuanlan.zhihu.com/p/659460973)
-* @[NorthSecond](https://blog.yfyang.me/)的[2024届保研流水账](https://blog.yfyang.me/2023/10/01/about-baoyan/)
 
 ## 2022夏令营总结贴
 
