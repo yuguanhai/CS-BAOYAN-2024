@@ -1,4 +1,4 @@
-# CS-BAOYAN-2023 (二代目)
+# CS-BAOYAN-2024 (三代目)
 **全国最大非商业用爱交流计算机保研交流群**（QQ群号：605176069）
 
 <img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2023/blob/main/1%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg" width=10% />
@@ -9,7 +9,7 @@
 
 ## CONTRIBUTION
 
-我们正在收集2019级同学保研经验贴，欢迎大家 Star & Fork！
+我们正在收集2020级同学保研经验贴，欢迎大家 Star & Fork！
 
 为了能给学弟学妹们更详细的参考与帮助，现在面向全群征集大家公开在社交媒体平台的保研经验贴（知乎、CSDN 等均可）
 
