@@ -28,6 +28,7 @@
 * @[Zero](https://www.zhihu.com/people/absolute-zero-51)的[2023年非典型性计算机保研经验贴——中科大信院、中山软院、川大计院](https://zhuanlan.zhihu.com/p/659043338)
 * @[那个谁](https://github.com/tjujingzong)的[2023(2024届) 计算机/软工保研经验贴（天大佐治亚、中科大苏州、西交软院、浙大软院）](https://zhuanlan.zhihu.com/p/659120308)
 * @[404NotFound](https://www.zhihu.com/people/404not-found-31-86)的[2023年计算机专业保研经验帖（北大计院、北大软微、同济电院、南大软件所等）](https://zhuanlan.zhihu.com/p/659303117)
+* @[纯和高茎豌豆](https://www.zhihu.com/people/cryomaster)的[2023年计算机保研小记（南大AI、复旦CS）](https://zhuanlan.zhihu.com/p/659021845)
 
 ## 2022夏令营总结贴
 
