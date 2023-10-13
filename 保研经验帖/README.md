@@ -25,6 +25,7 @@
 * @[hollow](https://blog.csdn.net/m0_51507437)的[2023（2024届）计算机保研经验分享（网安向）](https://blog.csdn.net/m0_51507437/article/details/133420369)
 * @[妖魔鬼怪快离开](https://www.zhihu.com/people/pdqke0)的[2023年（2024届）计算机保研经验贴（浙软、同济软、哈工大计算学部）](https://zhuanlan.zhihu.com/p/658963182)
 * @[那个谁](https://github.com/tjujingzong)的[2023(2024届) 计算机/软工保研经验贴（天大佐治亚、中科大苏州、西交软院、浙大软院）](https://zhuanlan.zhihu.com/p/659120308)
+* @[纯和高茎豌豆](https://www.zhihu.com/people/cryomaster)的[2023年计算机保研小记（南大AI、复旦CS）](https://zhuanlan.zhihu.com/p/659021845)
 
 ## 2022夏令营总结贴
 
