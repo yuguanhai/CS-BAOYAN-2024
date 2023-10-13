@@ -1,6 +1,7 @@
 这是大三同学参加夏令营和九月份复试的一些博客汇总。大家想着要把这次宝贵的夏令营经历记录一下，好给学弟学妹一个参考。学弟学妹们可以结合自身情况，大概了解一下保研流程，部分学校保研考核要求，从而少走一些弯路，去到自己理想中的学校。
 
 ## 2023夏令营总结贴
+* @[caijianfeng](https://cai-jianfeng.github.io/)的[2023年（2024届）211人工智能养蛊班鼠鼠保研+预推免经验贴（科大6系、thusz ai、tbsi、pkusz），其实更像流水账](https://cai-jianfeng.github.io/posts/2023/09/blog-post-graduate-interview-experience/)
 * @[GhostLX](https://www.zhihu.com/people/Myl520/posts)的[2023年（2024届）四非ACMer计算机保研经验贴｜全程0offer上岸北航｜（厦大信院、西电杭AI、北邮AI、华师CS、北航SE、电科深、吉大软院）|2万字超详细经验分析|ACMer必看保研思路](https://zhuanlan.zhihu.com/p/659991998)
 * @[Sylvain](https://www.zhihu.com/people/yi-yang-12-56-12)的[2024届(2023年)计算机保研经验分享|万字经验望有用|清华TBSI,北大软微,人大高瓴,计算所,清华软院,北大cs,科大网安,清华自动化系,浙大cs](https://zhuanlan.zhihu.com/p/659078121)
 * @[NorthSecond](https://blog.yfyang.me/)的[2024届保研流水账](https://blog.yfyang.me/2023/10/01/about-baoyan/)
