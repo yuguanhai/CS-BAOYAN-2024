@@ -33,6 +33,7 @@
 * @[纯和高茎豌豆](https://www.zhihu.com/people/cryomaster)的[2023年计算机保研小记（南大AI、复旦CS）](https://zhuanlan.zhihu.com/p/659021845)
 * @[lx_tyin](https://www.zhihu.com/people/tyin-84)的[24届计算机推免 四非0科研图形学菜狗的经验贴（北航vr、南开cs）](https://zhuanlan.zhihu.com/p/659054002)
 * @[xieincz](https://xieincz.github.io)的[2023计算机0科研的保研边缘人的挣扎之路（哈深、中大、华南理工、山大）](https://xieincz.github.io/post/2023-ji-suan-ji-0-ke-yan-de-bao-yan-bian-yuan-ren-de-zheng-zha-zhi-lu-ha-shen-zhong-da-hua-nan-li-gong-shan-da/)
+* @[颓废朱渣](https://www.zhihu.com/people/tui-fei-zhu-zha)的[2023（2024届）211计算机保研经验分享（中山计算机，北大计算机, 北大软微等）](https://www.zhihu.com/question/537883625/answer/3234428943)
 
 ## 2022夏令营总结贴
 
