@@ -2,6 +2,7 @@
 
 ## 2023夏令营总结贴
 
+* @[Sylvain](https://www.zhihu.com/people/yi-yang-12-56-12)的[2024届(2023年)计算机保研经验分享|万字经验望有用|清华TBSI,北大软微,人大高瓴,计算所,清华软院,北大cs,科大网安,清华自动化系,浙大cs](https://zhuanlan.zhihu.com/p/659078121)
 * @[NorthSecond](https://blog.yfyang.me/)的[2024届保研流水账](https://blog.yfyang.me/2023/10/01/about-baoyan/)
 * @[雨似浮夸](https://www.zhihu.com/people/yu-si-fu-kua)的[2023年（2024届）计算机保研经验帖｜末2跨专业上岸东南大学PALM｜东南大学CS、北大信工CS、浙软SE、厦大MAC、北师大AI、电科CS……｜一篇非常详细的经验帖，希望能够对大家有帮助！](https://zhuanlan.zhihu.com/p/659869954)
 * @[lllllThree](https://www.zhihu.com/people/lllll-64-58-95)的[2023年（2024届） 计算机保研经历 北航cs 武大cs 自动化所](https://zhuanlan.zhihu.com/p/631358931)
@@ -25,6 +26,7 @@
 * @[hollow](https://blog.csdn.net/m0_51507437)的[2023（2024届）计算机保研经验分享（网安向）](https://blog.csdn.net/m0_51507437/article/details/133420369)
 * @[妖魔鬼怪快离开](https://www.zhihu.com/people/pdqke0)的[2023年（2024届）计算机保研经验贴（浙软、同济软、哈工大计算学部）](https://zhuanlan.zhihu.com/p/658963182)
 * @[Zero](https://www.zhihu.com/people/absolute-zero-51)的[2023年非典型性计算机保研经验贴——中科大信院、中山软院、川大计院](https://zhuanlan.zhihu.com/p/659043338)
+* @[那个谁](https://github.com/tjujingzong)的[2023(2024届) 计算机/软工保研经验贴（天大佐治亚、中科大苏州、西交软院、浙大软院）](https://zhuanlan.zhihu.com/p/659120308)
 
 ## 2022夏令营总结贴
 
