@@ -37,7 +37,7 @@
 * @[snowstorm](https://www.zhihu.com/people/8997-5)的[2023年（2024届）双非计算机保研经验贴（东南、成电、国防科大、浙软、湖大）](https://zhuanlan.zhihu.com/p/659109129)
 * @[摸鱼小达人](https://zhuanlan.zhihu.com/p/659138038)的[（2024届）数学跨保计算机经历，上岸中科大信科直博（厦大MAC、中科大科学岛、中山鹏城、哈工大卓工苏州、浙大软院、天大智算）](https://zhuanlan.zhihu.com/p/659138038)
 
-
+* @[收尾人VEM](https://zhuanlan.zhihu.com/p/658217289)的[2024计算机推免记录(xmu mac、seu palm、nku 强组、北深、nju se、同济se、hust cs、whu遥感)](https://zhuanlan.zhihu.com/p/658217289)
 ## 2022夏令营总结贴
 
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
