@@ -3,6 +3,7 @@
 ## 2023夏令营总结贴
 
 * @[三七](https://www.zhihu.com/people/18-13-17-16)的[2023(2024届)计算机保研——吉大，北航，西工大，浙软，计算所，东南，西交](https://zhuanlan.zhihu.com/p/659567441)
+
 * @[caijianfeng](https://cai-jianfeng.github.io/)的[2023年（2024届）211人工智能养蛊班鼠鼠保研+预推免经验贴（科大6系、thusz ai、tbsi、pkusz），其实更像流水账](https://cai-jianfeng.github.io/posts/2023/09/blog-post-graduate-interview-experience/)
 * @[GhostLX](https://www.zhihu.com/people/Myl520/posts)的[2023年（2024届）四非ACMer计算机保研经验贴｜全程0offer上岸北航｜（厦大信院、西电杭AI、北邮AI、华师CS、北航SE、电科深、吉大软院）|2万字超详细经验分析|ACMer必看保研思路](https://zhuanlan.zhihu.com/p/659991998)
 * @[Sylvain](https://www.zhihu.com/people/yi-yang-12-56-12)的[2024届(2023年)计算机保研经验分享|万字经验望有用|清华TBSI,北大软微,人大高瓴,计算所,清华软院,北大cs,科大网安,清华自动化系,浙大cs](https://zhuanlan.zhihu.com/p/659078121)
@@ -39,6 +40,7 @@
 * @[摸鱼小达人](https://zhuanlan.zhihu.com/p/659138038)的[（2024届）数学跨保计算机经历，上岸中科大信科直博（厦大MAC、中科大科学岛、中山鹏城、哈工大卓工苏州、浙大软院、天大智算）](https://zhuanlan.zhihu.com/p/659138038)
 * @[收尾人VEM](https://zhuanlan.zhihu.com/p/658217289)的[2024计算机推免记录(xmu mac、seu palm、nku 强组、北深、nju se、同济se、hust cs、whu遥感)](https://zhuanlan.zhihu.com/p/658217289)
 * @[神探香椿](https://www.zhihu.com/people/sirius-70-78)的[2023年（2024届）计算机保研总结（北大计算机，南大LAMDA，人大高瓴，中科大）](https://zhuanlan.zhihu.com/p/646649480)
+* @[豪2021](https://www.zhihu.com/people/hao-2021-91)的[2023年（2024届）计算机保研回忆录（清华贵系/人大高瓴/自动化所/北大软微/上交电院/科大6系）](https://zhuanlan.zhihu.com/p/653744380)
 
 
 ## 2022夏令营总结贴
