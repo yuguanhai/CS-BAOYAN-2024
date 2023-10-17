@@ -43,7 +43,9 @@
 * @[太美丽了吉大AI](https://www.zhihu.com/people/bei-tong-de-hai)的[2023年（2024届）计算机保研经验贴|末九低rank|就业向|厦大，哈工威，中山，清华工程硕](https://zhuanlan.zhihu.com/p/661343191)
 * @[Phenophenes](https://www.zhihu.com/people/hughhh-3)的[2024届（2023年）计算机+跨保法学保研经验（同济、计算所、浙软等）](https://zhuanlan.zhihu.com/p/659515958)
 * @[NamelessOIer](https://github.com/NamelessOIer)的[2023 计算机保研复盘（清华cs、北大cs、中科大cs、南大cs）](https://brazen-linseed-692.notion.site/2023-e4c9f5f8fd1f457293ea8465e5ab8d0f)
+* @[Cocktail](https://www.zhihu.com/people/tu-lao-2-52)的[23(24届)计算机保研经验贴｜末2上岸华工｜西交软、电科CS、北理前沿院、华工CS、北师大AI、川大CS、大工CS、湖大CS、重大CS](https://zhuanlan.zhihu.com/p/661226536)
 
+  
 ## 2022夏令营总结贴
 
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
