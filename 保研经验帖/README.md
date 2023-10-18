@@ -46,6 +46,8 @@
 * @[Cocktail](https://www.zhihu.com/people/tu-lao-2-52)的[23(24届)计算机保研经验贴｜末2上岸华工｜西交软、电科CS、北理前沿院、华工CS、北师大AI、川大CS、大工CS、湖大CS、重大CS](https://zhuanlan.zhihu.com/p/661226536)
 * @[棒棒爱吃糖](https://www.zhihu.com/people/wanegbt)的[2023年（24届）保研经验贴-武大CS，南大CS，东南CS，复旦CS，浙大工院数科](https://zhuanlan.zhihu.com/p/659072965)
 * @[ARROW](https://www.zhihu.com/people/arrow-62-1)的[2023年（2024届）计算机保研总结（北航cs，北大cs，人大高瓴等）](https://zhuanlan.zhihu.com/p/661614834)
+* @[ViperH](https://www.zhihu.com/people/qing-zhu-47-88)的[2023年（2024届）清北港三华五自动化/人工智能保研经历](https://zhuanlan.zhihu.com/p/644630686?utm_psn=1698080425816403968)
+* @[Cczz](https://www.zhihu.com/people/cczz-81-21)的[2023年24届劣势四非躺平摆烂保研反面经验贴（厦大 西北工业 西电杭）](https://zhuanlan.zhihu.com/p/659154144)
   
 ## 2022夏令营总结贴
 
