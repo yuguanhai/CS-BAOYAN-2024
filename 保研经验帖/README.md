@@ -2,6 +2,7 @@
 
 ## 2023夏令营总结贴
 
+* @[扶苏~](https://www.zhihu.com/people/cai-dan-ren-cuo)的[2023年(2024级)保研经验分享(上交计算机，北大智能，南大AI等)](https://www.zhihu.com/question/537883625/answer/3117894338)
 * @[三七](https://www.zhihu.com/people/18-13-17-16)的[2023(2024届)计算机保研——吉大，北航，西工大，浙软，计算所，东南，西交](https://zhuanlan.zhihu.com/p/659567441)
 * @[caijianfeng](https://cai-jianfeng.github.io/)的[2023年（2024届）211人工智能养蛊班鼠鼠保研+预推免经验贴（科大6系、thusz ai、tbsi、pkusz），其实更像流水账](https://cai-jianfeng.github.io/posts/2023/09/blog-post-graduate-interview-experience/)
 * @[GhostLX](https://www.zhihu.com/people/Myl520/posts)的[2023年（2024届）四非ACMer计算机保研经验贴｜全程0offer上岸北航｜（厦大信院、西电杭AI、北邮AI、华师CS、北航SE、电科深、吉大软院）|2万字超详细经验分析|ACMer必看保研思路](https://zhuanlan.zhihu.com/p/659991998)
