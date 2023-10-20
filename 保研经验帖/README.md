@@ -2,6 +2,7 @@
 
 ## 2023夏令营总结贴
 
+* @[Jason](https://www.zhihu.com/people/passerby-60-2)的[四非人的保研之路，2023（2024届）四非计算机的保研经验分享（中科院计算所、中科大先研院、厦大、西电等）](https://zhuanlan.zhihu.com/p/661018643?utm_psn=1698720861543129088)
 * @[murmure](https://www.zhihu.com/people/okczong-hui-ying-de)的[24届计算机保研经历记录 | ai边缘人 | 中科院、人大、pjlab等](https://zhuanlan.zhihu.com/p/661991030?utm_psn=1698650870760267776)
 * @[battleship](https://www.zhihu.com/people/battleship-55)的[2023年低rk无产出弱竞赛的跨保计算机经历（清华、人大信院、软件所、计算所、北航等）](https://zhuanlan.zhihu.com/p/659003582?utm_psn=1698652315093938176)
 * @[Leibnizzzzzz](https://www.zhihu.com/people/re-xin-wang-you-95-66)的[2024保研经验帖：统计跨保计算机（CS/Security，清华生统、上交计算机、南大计算机、中科院软件所等）](https://zhuanlan.zhihu.com/p/658314530?utm_psn=1698624664065314817)
