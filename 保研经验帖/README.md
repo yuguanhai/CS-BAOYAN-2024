@@ -2,6 +2,10 @@
 
 ## 2023夏令营总结贴
 
+* @[murmure](https://www.zhihu.com/people/okczong-hui-ying-de)的[24届计算机保研经历记录 | ai边缘人 | 中科院、人大、pjlab等](https://zhuanlan.zhihu.com/p/661991030?utm_psn=1698650870760267776)
+* @[battleship](https://www.zhihu.com/people/battleship-55)的[2023年低rk无产出弱竞赛的跨保计算机经历（清华、人大信院、软件所、计算所、北航等）](https://zhuanlan.zhihu.com/p/659003582?utm_psn=1698652315093938176)
+* @[Leibnizzzzzz](https://www.zhihu.com/people/re-xin-wang-you-95-66)的[2024保研经验帖：统计跨保计算机（CS/Security，清华生统、上交计算机、南大计算机、中科院软件所等）](https://zhuanlan.zhihu.com/p/658314530?utm_psn=1698624664065314817)
+* @[热爱学习的憨憨](https://www.zhihu.com/people/re-ai-xue-xi-de-han-han)的[2024届（2023年）保研经历分享](https://zhuanlan.zhihu.com/p/659171614)
 * @[扶苏~](https://www.zhihu.com/people/cai-dan-ren-cuo)的[2023年(2024级)保研经验分享(上交计算机，北大智能，南大AI等)](https://www.zhihu.com/question/537883625/answer/3117894338)
 * @[三七](https://www.zhihu.com/people/18-13-17-16)的[2023(2024届)计算机保研——吉大，北航，西工大，浙软，计算所，东南，西交](https://zhuanlan.zhihu.com/p/659567441)
 * @[caijianfeng](https://cai-jianfeng.github.io/)的[2023年（2024届）211人工智能养蛊班鼠鼠保研+预推免经验贴（科大6系、thusz ai、tbsi、pkusz），其实更像流水账](https://cai-jianfeng.github.io/posts/2023/09/blog-post-graduate-interview-experience/)
