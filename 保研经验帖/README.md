@@ -55,6 +55,9 @@
 * @[ViperH](https://www.zhihu.com/people/qing-zhu-47-88)的[2023年（2024届）清北港三华五自动化/人工智能保研经历](https://zhuanlan.zhihu.com/p/644630686?utm_psn=1698080425816403968)
 * @[Cczz](https://www.zhihu.com/people/cczz-81-21)的[2023年24届劣势四非躺平摆烂保研反面经验贴（厦大 西北工业 西电杭）](https://zhuanlan.zhihu.com/p/659154144)
 * @[Tim](https://www.zair.top/)的[2023年末流211大数据专业保研记录（吉软，高瓴，中南大数据，东南cs，计算所分布式，西交ai（人机所）等）](https://www.zair.top/post/baoyan)
+* @[欹风](https://www.zhihu.com/people/yi-feng-32-29)的[2023年计算机保研心路历程(北大智能、北航cs、上海AIlab、清华软件等）](https://zhuanlan.zhihu.com/p/649676584)
+* @[大能猫吃热千面](https://www.zhihu.com/people/wei-yi-43-99-52)的[2023年外校保研清华贵系经验](https://zhuanlan.zhihu.com/p/662602638)
+* @[宅前一棵树](https://www.zhihu.com/people/zhai-qian-yi-ke-shu)的[2023年（2024届）计算机保研/升学实录（港中深数据科学、上交软、清软）](https://zhuanlan.zhihu.com/p/659320000)
   
 ## 2022夏令营总结贴
 
