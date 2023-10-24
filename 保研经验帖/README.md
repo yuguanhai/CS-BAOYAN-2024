@@ -58,7 +58,7 @@
 * @[欹风](https://www.zhihu.com/people/yi-feng-32-29)的[2023年计算机保研心路历程(北大智能、北航cs、上海AIlab、清华软件等）](https://zhuanlan.zhihu.com/p/649676584)
 * @[大能猫吃热千面](https://www.zhihu.com/people/wei-yi-43-99-52)的[2023年外校保研清华贵系经验](https://zhuanlan.zhihu.com/p/662602638)
 * @[宅前一棵树](https://www.zhihu.com/people/zhai-qian-yi-ke-shu)的[2023年（2024届）计算机保研/升学实录（港中深数据科学、上交软、清软）](https://zhuanlan.zhihu.com/p/659320000)
-  
+* @[jwimd](https://jwimd.github.io/)的[24跨保CS经验贴（清华叉院，清华软院工博，浙大计院直博）](https://zhuanlan.zhihu.com/p/663081725)
 ## 2022夏令营总结贴
 
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
