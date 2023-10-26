@@ -60,6 +60,7 @@
 * @[宅前一棵树](https://www.zhihu.com/people/zhai-qian-yi-ke-shu)的[2023年（2024届）计算机保研/升学实录（港中深数据科学、上交软、清软）](https://zhuanlan.zhihu.com/p/659320000)
 * @[jwimd](https://jwimd.github.io/)的[24跨保CS经验贴（清华叉院，清华软院工博，浙大计院直博）](https://zhuanlan.zhihu.com/p/663081725)
 * @[L-811](https://github.com/L-811)的[2023年中末流211计算机保研记录（自动化所、天大、南开、东南、北师大、厦大）](https://zhuanlan.zhihu.com/p/659208624)
+* @[TrueStar02](https://github.com/TrueStar02)的[中九几乎0科研经验的保研经历分享](https://github.com/TrueStar02/baoyan_experience)
 ## 2022夏令营总结贴
 
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
