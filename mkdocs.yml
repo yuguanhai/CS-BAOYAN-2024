@@ -1,0 +1,47 @@
+site_name: CS-Baoyan-2024
+site_url: https://CS-BAOYAN.github.io/CS-BAOYAN-2024/
+
+repo_name: CS-BAOYAN/CS-BAOYAN-2024
+repo_url: https://github.com/CS-BAOYAN/CS-BAOYAN-2024/
+
+edit_uri: blob/main/docs/
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+    - navigation.top
+    - navigation.sections
+    - content.action.edit
+    - content.tabs.link
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang: zh
+
+# LaTeX支持
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.tilde
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.highlight:
+      use_pygments: true
+  - footnotes
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
