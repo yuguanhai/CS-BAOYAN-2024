@@ -193,7 +193,7 @@
 - @[Annalovecoding](https://blog.csdn.net/Annalovecoding)的[2020计算机、信息安全保研记](https://blog.csdn.net/Annalovecoding/article/details/108896834)
 - @[一程山路](https://www.zhihu.com/people/zhang-lei-54-11)的[2020年计算机方向夏令营保研经验分享（南大，北航，天大，南开）](https://zhuanlan.zhihu.com/p/266870455)
 - @[ss-Z](https://www.zhihu.com/people/si-shu-zheng)的["日月星辰陪我走"-2021计算机保研记录/经验贴](https://zhuanlan.zhihu.com/p/268825353)
-- @[b站今天有学习区了吗](https://blog.csdn.net/weixin_43368559)的[【计算机推免】川大计算机夏令营—华南理工软件预推免—华科计算机预推免（2020.10）](【计算机推免】川大计算机夏令营—华南理工软件预推免—华科计算机预推免（2020.10）)
+- @[b站今天有学习区了吗](https://blog.csdn.net/weixin_43368559)的[【计算机推免】川大计算机夏令营—华南理工软件预推免—华科计算机预推免（2020.10）](https://blog.csdn.net/weixin_43368559)
 - @[蓝色树獭](https://www.zhihu.com/people/li-yichen-84-80)的[2020CS安全方向升学小计 保研夏令营｜港校early admission](https://zhuanlan.zhihu.com/p/267499551)
 - @[lfysec](https://lfysec.top/)的[2020CS保研笔记 & 艰难2020总结](https://lfysec.top/2020/10/12/2020CS%E4%BF%9D%E7%A0%94%E7%AC%94%E8%AE%B0/)
 - @[Ji Peng](https://www.zhihu.com/people/jipeng-48)的[2020年“工理经管”四大门类保研夏令营混申回忆录（清深、TBSI、计算所、上交电院、北大汇丰等十余个项目）](https://zhuanlan.zhihu.com/p/358182473)
