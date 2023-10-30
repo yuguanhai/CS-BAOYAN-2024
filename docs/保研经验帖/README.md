@@ -62,6 +62,7 @@
 * @[L-811](https://github.com/L-811)的[2023年中末流211计算机保研记录（自动化所、天大、南开、东南、北师大、厦大）](https://zhuanlan.zhihu.com/p/659208624)
 * @[TrueStar02](https://github.com/TrueStar02)的[中九几乎0科研经验的保研经历分享](https://github.com/TrueStar02/baoyan_experience)
 * @[凛夜序](https://www.zhihu.com/people/freezing-night-0)的[2023年(2024届)计算机保研夏令营记录（人大信院、中山计院等）](https://zhuanlan.zhihu.com/p/659777507)
+* @[xhd0728](https://resume.kokomi0728.eu.org)的[菜鸡2023（2024届）计算机保研经验分享](https://zhuanlan.zhihu.com/p/659052347)
 ## 2022夏令营总结贴
 
 * @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
@@ -120,7 +121,6 @@
 * @[反过来想](https://www.zhihu.com/people/111-88-16-78)的[2023-计算机保研经历-南大lamda 中科大 北航 山大](https://zhuanlan.zhihu.com/p/569478861)
 * @[陆壹zero](https://www.zhihu.com/people/jin-shu-zhi-guo-wang)的[2022计算机保研经验贴|厦门大学MAC实验室&浙江大学软件学院|线下夏令营|名场面竟是我自己](https://zhuanlan.zhihu.com/p/570092284)
 * @[白白阿桑](https://www.zhihu.com/people/do-today)的[2022年（2023届）计算机保研经验（北大工学院、清深TBSI、自动化所、计算所、港中文、上交、复旦、南大、北航等）](https://zhuanlan.zhihu.com/p/624744728)
-* @[xhd0728](https://resume.kokomi0728.eu.org)的[菜鸡2023（2024届）计算机保研经验分享](https://zhuanlan.zhihu.com/p/659052347)
 
 ## 2021夏令营总结贴
 
