@@ -10,7 +10,7 @@
 
 全国最大非商业用爱交流计算机保研交流群2【临时】（QQ群号：620876705）
 
-<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2024/raw/main/3%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width=10% />
+<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2024/blob/main/%E4%B8%89%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width=10% />
 
 ## CONTRIBUTION
 
