@@ -65,7 +65,7 @@
 * @[凛夜序](https://www.zhihu.com/people/freezing-night-0)的[2023年(2024届)计算机保研夏令营记录（人大信院、中山计院等）](https://zhuanlan.zhihu.com/p/659777507)
 * @[xhyu61](https://www.zhihu.com/people/Xhyukhalt)的[2023（2024届）计算机保研经验分享与思考：211→同济](https://zhuanlan.zhihu.com/p/659074805)
 * @[xhd0728](https://resume.kokomi0728.eu.org)的[菜鸡2023（2024届）计算机保研经验分享](https://zhuanlan.zhihu.com/p/659052347)
-* @[dddd](https://www.zhihu.com/people/qiu-zhi-ruo-ke-de-la-ji)的[普普通通的计算机保研流水账|清深AI、人大高瓴、南大智科等](https://zhuanlan.zhihu.com/p/659337046)
+* @[dddd](https://www.zhihu.com/people/qiu-zhi-ruo-ke-de-la-ji)的[普普通通三维的保研流水账 | 清深AI、人大高瓴、南大智科、中科大大数据等](https://zhuanlan.zhihu.com/p/659337046)
 
 
 ## 2022夏令营总结贴
