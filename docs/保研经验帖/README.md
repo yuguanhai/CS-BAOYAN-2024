@@ -66,6 +66,9 @@
 * @[xhyu61](https://www.zhihu.com/people/Xhyukhalt)的[2023（2024届）计算机保研经验分享与思考：211→同济](https://zhuanlan.zhihu.com/p/659074805)
 * @[xhd0728](https://resume.kokomi0728.eu.org)的[菜鸡2023（2024届）计算机保研经验分享](https://zhuanlan.zhihu.com/p/659052347)
 * @[dddd](https://www.zhihu.com/people/qiu-zhi-ruo-ke-de-la-ji)的[普普通通三维的保研流水账 | 清深AI、人大高瓴、南大智科、中科大大数据等](https://zhuanlan.zhihu.com/p/659337046)
+* **[保研三部曲-经验贴]** @[硝基苯](https://www.zhihu.com/people/dong-dong-dong-49-89-76)的[计算机推免经验帖 | 贵系、上交cs、中科大cs等](https://zhuanlan.zhihu.com/p/659027931)
+* **[保研三部曲-保研vlog]** @[硝基苯](https://space.bilibili.com/500997516)的[2023年计算机类保研vlog](https://www.bilibili.com/video/BV1694y1E7WR)
+* **[保研三部曲-与群友面基]** @[硝基苯](https://space.bilibili.com/500997516)的[推免结束，跟绿群群友在南京小聚](https://www.bilibili.com/video/BV1kh4y1q78t)
 
 
 ## 2022夏令营总结贴
