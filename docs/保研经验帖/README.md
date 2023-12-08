@@ -69,7 +69,7 @@
 * **[保研三部曲-经验贴]** @[硝基苯](https://www.zhihu.com/people/dong-dong-dong-49-89-76)的[计算机推免经验帖 | 贵系、上交cs、中科大cs等](https://zhuanlan.zhihu.com/p/659027931)
 * **[保研三部曲-保研vlog]** @[硝基苯](https://space.bilibili.com/500997516)的[2023年计算机类保研vlog](https://www.bilibili.com/video/BV1694y1E7WR)
 * **[保研三部曲-与群友面基]** @[硝基苯](https://space.bilibili.com/500997516)的[推免结束，跟绿群群友在南京小聚](https://www.bilibili.com/video/BV1kh4y1q78t)
-
+* @[SuburbiaXX](https://github.com/SuburbiaXX)的[2023年信息安全（网安）相对简单保研经验-夏令营上岸-浙大网安-上交网安-东南网安](https://suburbiaxx.fun/posts/1789e92c/)
 
 ## 2022夏令营总结贴
 
