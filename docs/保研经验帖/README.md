@@ -72,10 +72,11 @@
 * @[SuburbiaXX](https://github.com/SuburbiaXX)的[2023年信息安全（网安）相对简单保研经验-夏令营上岸-浙大网安-上交网安-东南网安](https://suburbiaxx.fun/posts/1789e92c/)
 * @[Jasonczh4](https://github.com/JasonCZH4)的[2023CS保研末二低RK经验贴【中大软|西交|湖大】](https://zhuanlan.zhihu.com/p/659090289)
 * @[Tian Kun](https://www.zhihu.com/people/shi-shui-51-3)的[2023计算机保研经验分享（上交直博、pjlab、北航计算机、东南计算机、南大苏州）](https://zhuanlan.zhihu.com/p/669318794)
+* @[2836](https://www.zhihu.com/people/zhen-mao-93)的[2024届计算机保研经验贴（武大、华科、北师大、南开、东南……上岸华科cs](https://zhuanlan.zhihu.com/p/659849122)
 
 ## 2022夏令营总结贴
 
-* @[浮槎](https://www.zhihu.com/people/yifanyeung)的[2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）](https://zhuanlan.zhihu.com/p/573038839?)
+* @[浮槎](https://www.zhihu.com/people/yifanyeung)的2022年计算机保研经验贴（清华叉院、清华贵系、北大计算机、北大智能、上交电院计算机、复旦计算机）
 * @[摸鱼ing](https://www.zhihu.com/people/tu-tu-83-41-10)的[2022年（2023届）计算机保研——清华自动化、北大计算机、计算所vipl、南开cmm、南大计算机、人大信息等，附保研常见问题解答、清北华五院系分析](https://zhuanlan.zhihu.com/p/572166269)
 * @[一口鸟](https://www.zhihu.com/people/yikou-niao-93)的[2022年北京某985计算机保研经历分享（清华、上交、中科院等）](https://zhuanlan.zhihu.com/p/569829982)
 * @[比尔](https://www.zhihu.com/people/bi-er-83-39/posts)的[2022年（2023届）计算机保研——计算所vipl、南大lamda、北大计算机、人大高瓴等](https://zhuanlan.zhihu.com/p/570001872)
