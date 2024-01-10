@@ -72,6 +72,7 @@
 * @[SuburbiaXX](https://github.com/SuburbiaXX)的[2023年信息安全（网安）相对简单保研经验-夏令营上岸-浙大网安-上交网安-东南网安](https://suburbiaxx.fun/posts/1789e92c/)
 * @[Jasonczh4](https://github.com/JasonCZH4)的[2023CS保研末二低RK经验贴【中大软|西交|湖大】](https://zhuanlan.zhihu.com/p/659090289)
 * @[Tian Kun](https://www.zhihu.com/people/shi-shui-51-3)的[2023计算机保研经验分享（上交直博、pjlab、北航计算机、东南计算机、南大苏州）](https://zhuanlan.zhihu.com/p/669318794)
+* @[2836](https://www.zhihu.com/people/zhen-mao-93)的[2024届计算机保研经验贴（武大、华科、北师大、南开、东南……上岸华科cs](https://zhuanlan.zhihu.com/p/659849122)
 
 ## 2022夏令营总结贴
 
