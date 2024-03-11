@@ -76,6 +76,7 @@
 * @[2836](https://www.zhihu.com/people/zhen-mao-93)的[2024届计算机保研经验贴（武大、华科、北师大、南开、东南……上岸华科cs](https://zhuanlan.zhihu.com/p/659849122)
 * @[__XLE](https://github.com/XLEprime)的[2023（2024届）计算机保研经验帖](https://zhuanlan.zhihu.com/p/681967727)
 * @[Last](https://www.zhihu.com/people/last-19-28)的[2023年（2024届）计算机保研经验分享——复旦计算机、上交网安](https://zhuanlan.zhihu.com/p/682892693)
+* @[yu-yake2002](https://github.com/yu-yake2002)的[2023年（2024届）all in 中科院计算所保研经历](https://www.zhihu.com/question/537883625/answer/3233131256)
 
 ## 2022夏令营总结贴
 
