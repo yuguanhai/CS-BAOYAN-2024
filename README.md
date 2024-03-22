@@ -7,7 +7,9 @@
 
 全国最大非商业用爱交流计算机保研交流群2（QQ群号：620876705）
 
-<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2024/blob/main/%E4%B8%89%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width=10% />
+<!-- 请维护者注意图片链接，/blob/main/路径可能导致Github Pages无法显示图片，建议使用/raw/main/或在路径后增加?raw=true参数 -->
+<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2024/raw/main/%E4%B8%89%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width=10% />
+
 全国最大非商业用爱交流计算机保研交流群3【临时】（QQ群号：612207580）
 
 ## CONTRIBUTION
