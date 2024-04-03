@@ -1,11 +1,16 @@
 # CS-BAOYAN-2024 (三代目)
-**全国最大非商业用爱交流计算机保研交流群**（QQ群号：605176069）
 
-<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2023/blob/main/1%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg" width=10% />
 
-**全国最大非商业用爱交流计算机保研交流群2**（QQ群号：943826679）
+**全国最大非商业用爱交流计算机保研交流群**（QQ群号：943826679）
 
-<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2023/blob/main/2%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg" width=10% />
+<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2024/raw/main/2%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpeg" width=10% />
+
+全国最大非商业用爱交流计算机保研交流群2（QQ群号：620876705）
+
+<!-- 请维护者注意图片链接，/blob/main/路径可能导致Github Pages无法显示图片，建议使用/raw/main/或在路径后增加?raw=true参数 -->
+<img src="https://github.com/CS-BAOYAN/CS-BAOYAN-2024/raw/main/%E4%B8%89%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width=10% />
+
+全国最大非商业用爱交流计算机保研交流群3【临时】（QQ群号：612207580）
 
 ## CONTRIBUTION
 
@@ -15,7 +20,7 @@
 
 熟悉 Github Pull requests 的同学可以直接把自己经验贴添加了后 PR 给我们，记得保证版本与我的仓库一致。
 
-对 PR 不熟悉的同学，可以查阅[第一次参与开源](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)中的流程；也可以进群，选择把经验贴网络链接发至群公告中的邮箱，我们会之后统一整理。
+对 PR 不熟悉的同学，可以查阅[第一次参与开源](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)中的流程；也可以进群，选择把经验贴网络链接发至群公告中的邮箱，我们会之后统一整理。进群后，如果有问题可以按照[模板](./template.md)进行提问
 
 当然，如果你对本仓库的任何板块，例如复习资料、推荐资料等，想要贡献或者提建议，我们也十分欢迎 PR 和 Issue 。
 
